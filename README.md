@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Digital-Clock-JS
 
-You can use the [editor on GitHub](https://github.com/HamzaAshfaq01/Digital-Clock/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This project is related to developing an digital clock by using pure JS HTML and CSS.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Developed With:
 
-### Markdown
+* HTML.
+* CSS.
+* JS.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Silent Features:
 
-```markdown
-Syntax highlighted code block
+* Easy Logic.
+* Minial and Dyanmic Project.
+* Powerfull JS Skills used.
 
-# Header 1
-## Header 2
-### Header 3
+## Some Important JS Methods or functions used:
 
-- Bulleted
-- List
+* setInterval(): (https://www.w3schools.com/jsref/met_win_setinterval.asp).
+* new Date(): (https://www.w3schools.com/js/js_dates.asp).
 
-1. Numbered
-2. List
+## Project Preview:
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HamzaAshfaq01/Digital-Clock/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+(https://hamzaashfaq01.github.io/Digital-Clock/).
